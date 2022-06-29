@@ -5,7 +5,7 @@
 - 👀 meus interesses são aprender mais
 - 🌱 estou aprendendo a atualizar perfil
 - 💞️ procuro colaborar com o possivel 
-- 📫 para entar em contato é so acessar o pelo email 
+- 📫 para entar em contato é so entrar pelo email 
 
 <!---
 giovanna26072006/giovanna26072006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
